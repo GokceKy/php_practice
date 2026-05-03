@@ -1,0 +1,2 @@
+İlk satır oluşturuldu
+PHP File Handling öğreniyorumaa
